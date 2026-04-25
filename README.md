@@ -46,5 +46,4 @@ globalStyles: Centralized theme management using CSS variables for colors and sp
 2. Install dependencies:   npm install
 3. Start the development server:  npm run dev
 
-Bash
-npm run dev
+Developed by: Muhammad Hassan Samdani
